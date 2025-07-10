@@ -1,5 +1,9 @@
 # Image Rotate Demo with Qt, QML, and OpenCV
 
+## Demo
+
+![App Demo](images/RotationDemo.gif)
+
 This project demonstrates how to rotate an image using OpenCV in a C++ backend, with a QML frontend UI built using Qt Quick.  
 The app loads an image, lets you select a rotation angle with a slider, and shows the rotated image in real-time.
 
