@@ -1,0 +1,26 @@
+# Build folders
+/build/
+/cmake-build-debug/
+/CMakeFiles/
+/Makefile
+/CMakeCache.txt
+/*.pro.user
+/*.pro.user.*
+/*.qrc.*.rcc
+*.obj
+*.o
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Mac specific
+.DS_Store
+
+# Qt Creator
+*.autosave
+*.user
+*.user.*
+
+# Logs
+*.log
